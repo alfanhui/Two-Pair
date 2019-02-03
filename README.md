@@ -16,11 +16,7 @@ There are currently no tests available.
 
 ## Built With
 
-* [Unity](https://unity3d.com) - Game Engine
-
-## Authors
-
-* **Stuart Huddy** - *UI Design and Development* - 
+* [Unity](https://unity3d.com) - Game Engine 
 
 ## License
 
